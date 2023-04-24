@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @batsnuff
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning all of this stuff
-- 💞️ I’m looking to collaborate on dev P2E Games
+- 🌱 I’m currently learning all of this programming stuff
 - 📫 How to reach me telegram : @batsnuff
 
 <!---
