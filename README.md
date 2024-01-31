@@ -12,7 +12,7 @@ Cześć, jestem Miłosz - fun programowania i nowych technologii. Zapraszam do p
 - **Automatyzacji testów:** Kurs "tester automatyzujący w języku Python"
 - **Rozwijam umiejętności w:** Backend development
 
-## 📂 Moje projekty
+## 📂 Moje przykładowe projekty
 - [NFT-Showcase](https://batsnuff.github.io/NFT-Showcase/): Oto moja galeria NFT zdigitalizowanych kolekcji popularnych figurek Funko Pop. Strona ma przyjemny design i jest łatwa w obsłudze, a w przyszłości będzie rozbudowana o sekcje z subiektywnie wybranymi grami wykorzystującymi technologię NFT.
 - [Sie 'bout me](https://batsnuff.github.io/homepage/): Miloverse to prosta strona internetowa - ... jeszcze 😏 dowiesz się tu co mnie interesuje, bawi i cieszy. Znajdziesz też playliste aktualnie ulubionych piosenek, odkrywających mnie więcej.
 
