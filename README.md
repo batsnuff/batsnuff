@@ -14,7 +14,7 @@ Cześć, jestem Miłosz - fun programowania i nowych technologii. Zapraszam do p
 
 ## 📂 Moje przykładowe projekty
 - [NFT-Showcase](https://batsnuff.github.io/NFT-Showcase/): Oto moja galeria NFT zdigitalizowanych kolekcji popularnych figurek Funko Pop. Strona ma przyjemny design i jest łatwa w obsłudze, a w przyszłości będzie rozbudowana o sekcje z subiektywnie wybranymi grami wykorzystującymi technologię NFT.
-- [Sie 'bout me](https://batsnuff.github.io/homepage/): Miloverse to prosta strona internetowa - ... jeszcze 😏 dowiesz się tu co mnie interesuje, bawi i cieszy. Znajdziesz też playliste aktualnie ulubionych piosenek, odkrywających mnie więcej.
+- [Site 'bout me](https://batsnuff.github.io/homepage/): Miloverse to prosta strona internetowa - ... jeszcze 😏 dowiesz się tu co mnie interesuje, bawi i cieszy. Znajdziesz też playliste aktualnie ulubionych piosenek, odkrywających mnie więcej.
 
 ## 📫 Skontaktuj się ze mną
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/miłosz-szczepaniak-1708b9178/)
